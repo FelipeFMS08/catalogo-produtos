@@ -2,7 +2,7 @@
 
 Este projeto é uma aplicação web de um catálogo de produtos desenvolvida como parte de um desafio técnico para uma posição de Desenvolvedor Full-Stack Júnior. A aplicação permite aos utilizadores visualizar produtos de uma API, filtrá-los por nome e gerir um carrinho de compras simples.
 
-### ✨ [Clique aqui para ver a demonstração ao vivo](https://catalogo-produtos-xi.vercel.app/) ✨
+### ✨ [Clique aqui para ver a demonstração ao vivo](https://catalogo-produtos-lilac.vercel.app/) ✨
 
 ## 📸 Screenshot
 
