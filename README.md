@@ -25,7 +25,7 @@ Este projeto é uma aplicação web de um catálogo de produtos desenvolvida com
 
 ## 🚀 Tecnologias Utilizadas
 
-- **Front-end:** [**Next.js 13+**](https://nextjs.org/) (com App Router)
+- **Front-end:** [**Next.js 15**](https://nextjs.org/) (com App Router)
 - **Estilização:** [**Tailwind CSS**](https://tailwindcss.com/)
 - **Gestão de Estado:** [**Redux Toolkit**](https://redux-toolkit.js.org/)
 - **Linguagem:** [**TypeScript**](https://www.typescriptlang.org/)
